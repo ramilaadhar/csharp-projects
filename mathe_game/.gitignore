@@ -2,3 +2,4 @@ bin
 obj
 math_game.csproj
 math_game.sln
+.vs
