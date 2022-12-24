@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.AssemblyInfo.cs
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\bin\Debug\net6.0\mathe_game.exe
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\bin\Debug\net6.0\mathe_game.deps.json
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\bin\Debug\net6.0\mathe_game.runtimeconfig.json
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\bin\Debug\net6.0\mathe_game.dll
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\bin\Debug\net6.0\mathe_game.pdb
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.dll
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\refint\mathe_game.dll
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.pdb
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\mathe_game.genruntimeconfig.cache
+C:\Users\MSI\Desktop\mesProjets\c#projet\mathe_game\obj\Debug\net6.0\ref\mathe_game.dll
